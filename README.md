@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Current B.S. Computer Science student at Georgia Tech with concentrations in AI and Human-Computer Interaction with a minor in Global Business and Management. Check out my projects!
+
+🔭 Interested in Machine learning, AI, NLP, data analytics, cloud computing, and software development.
+
 <!--
 **shanmathig/shanmathig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
