@@ -1,20 +1,8 @@
-### Hi there 👋
+### Hi, I'm Shanmathi!
 
-Current B.S. Computer Science student at Georgia Tech with concentrations in AI and Human-Computer Interaction with a minor in Global Business and Management. Check out my projects!
+B.S./M.S. Computer Science student at the Georgia Institute of Technology with concentrations in AI and Human-Computer Interaction. Check out my projects!
 
-🔭 Interested in Machine learning, AI, NLP, data analytics, cloud computing, and software development.
-
-<!--
-**shanmathig/shanmathig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏽‍💻 Aspiring Software Engineer and Technical Product Manager
+🧠 Interested in artificial intelligence (AI), natural language processing (NLP), and cognitive AI
+🧑‍🤝‍🧑 Passionate about leading and building teams
+🩵 Advocate for children's mental health and education
