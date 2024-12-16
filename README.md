@@ -1,4 +1,7 @@
 ### Hi, I'm Shanmathi!
+<p align="center">
+  <img src="https://github.com/shanmathig/shanmathig/blob/d2105fc2012e68af23e75e342341476a82e36428/shanmathi%20gunasekaran.svg" alt="Shanmathi Gunasekaran" width="400"/>
+</p>
 
 B.S./M.S. Computer Science student at the Georgia Institute of Technology with concentrations in AI and Human-Computer Interaction. Check out my projects!
 
