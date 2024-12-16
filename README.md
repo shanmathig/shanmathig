@@ -1,9 +1,8 @@
-### Hi, I'm Shanmathi!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shanmathig/shanmathig/da382a5c953532e9935df1df4ee572057f738bf8/shanmathi%20gunasekaran%20(1).svg" alt="Shanmathi Gunasekaran" width="400"/>
+  <img src="https://raw.githubusercontent.com/shanmathig/shanmathig/da382a5c953532e9935df1df4ee572057f738bf8/shanmathi%20gunasekaran%20(1).svg" alt="Shanmathi Gunasekaran" width="600"/>
 </p>
 
-B.S./M.S. Computer Science student at the Georgia Institute of Technology with concentrations in AI and Human-Computer Interaction. Check out my projects!
+Hi! My name is Shanmathi and I am a B.S./M.S. Computer Science student at the Georgia Institute of Technology with concentrations in AI and Human-Computer Interaction. Check out my projects!
 
 👩🏽‍💻 Aspiring Software Engineer and Technical Product Manager <br/>
 🧠 Interested in artificial intelligence (AI), natural language processing (NLP), and cognitive AI <br/>
