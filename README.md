@@ -4,8 +4,8 @@
 
 Hi! My name is Shanmathi and I am a B.S. Computer Science student at the Georgia Institute of Technology with concentrations in AI and Human-Computer Interaction. Check out my projects!
 
-👩🏽‍💻 Aspiring Software Engineer <br/>
-🧠 Interested in artificial intelligence (AI) and natural language processing (NLP) for enterprise solutions <br/>
+👩🏽‍💻 Software Engineer <br/>
+🧠 Interested in Responsible AI and Machine Learning! <br/>
 🧑‍🤝‍🧑 Passionate about leading and building teams <br/>
 🩵 Advocate for children's mental health and education <br/>
 
