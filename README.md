@@ -7,7 +7,6 @@ Hi! My name is Shanmathi and I am a B.S./M.S. Computer Science student at the Ge
 👩🏽‍💻 Software Engineer <br/>
 🧠 Interested in Responsible AI and Machine Learning! <br/>
 🧑‍🤝‍🧑 Passionate about leading and building teams <br/>
-🩵 Advocate for children's mental health and education <br/>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmathiguna/)
